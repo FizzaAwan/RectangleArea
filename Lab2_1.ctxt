@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Lab2_1
+comment0.text=\r\n\ \ \ A\ program\ that\ computes\ the\ area\ of\ a\ rectangle\r\n\ \ \ and\ prints\ it\ out.\r\n\ \ \ All\ variables\ should\ be\ of\ type\ double.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
